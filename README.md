@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning c++<br>🎯 Goals: create games, modding<br>🧑‍💻 First programming language Python</p>
+<p align="left">📚 I'm currently learning c++ (enet networking)<br>🎯 Goals: create games, modding<br>🧑‍💻 First programming language Python</p>
 
 ###
 
